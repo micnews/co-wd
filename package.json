@@ -1,6 +1,6 @@
 {
   "name": "co-wd",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "co-compatible interface to the wd.js library (webdriver)",
   "main": "co-wd.js",
   "scripts": {
