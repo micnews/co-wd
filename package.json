@@ -1,0 +1,32 @@
+{
+  "name": "co-wd",
+  "version": "0.0.0",
+  "description": "co-compatible interface to the wd.js library (webdriver)",
+  "main": "co-wd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webdriver",
+    "selenium",
+    "co",
+    "generators"
+  ],
+  "author": "David Björklund <david.bjorklund@gmail.com> (http://davidbjorklund.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "co": "~3.1.0"
+  },
+  "dependencies": {
+    "wd": "^0.3.4",
+    "thunkify": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micnews/co-wd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/micnews/co-wd/issues"
+  },
+  "homepage": "https://github.com/micnews/co-wd"
+}
